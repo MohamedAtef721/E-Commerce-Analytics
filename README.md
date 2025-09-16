@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-## This project is an interactive analytics built with **Dash (Plotly, Flask)** to explore and analyze an **E-Commerce dataset (Online Retail)**.
+## This project is an **interactive analytics** built with **Dash (Plotly, Flask)** to explore and analyze an **E-Commerce dataset (Online Retail)**.
 
 ## ⚡ Features
 
@@ -52,5 +52,6 @@ It contains **real-world transactional data** from a UK-based e-commerce retaile
 | **Country**     | Country where the customer resides.                                                       |
 
 --
+
 
 
